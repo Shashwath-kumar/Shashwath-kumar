@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 Learning: **Advanced Machine Learning Techniques and Cloud Computing**
 - 💬 Ask me about: **AI, Machine Learning, Backend Development, and MLOps**
-- 📫 Contact: [Email](mailto:shashwath457@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/shashwath-kumar/))
+- 📫 Contact: [Email](mailto:shashwath457@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shashwath-kumar/)
 
 ## 🛠️ Technical Skills
 
