@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 **Hi there!** I'm Shashwath, a passionate software engineer focusing on AI, Machine Learning, and Backend Development. I'm a recent MS in Computer Science graduate from Rutgers University. Welcome to my GitHub!
 
-- 🌱 Learning: **Advanced Machine Learning Techniques and Cloud Computing**
+- 🌱 Learning: **Web Development and Scaling Architecture**
 - 💬 Ask me about: **AI, Machine Learning, Backend Development, and MLOps**
 - 📫 Contact: [Email](mailto:shashwath457@gmail.com) | [LinkedIn](https://www.linkedin.com/in/shashwath-kumar/)
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 **Languages:** Python, C++, Java, SQL, JavaScript, Bash, Go, Rust
 
-**Tools:** Docker, Kubernetes, AWS, GCP, PostgreSQL, MongoDB, PyTorch
+**Tools/Libraries:** Docker, Kubernetes, AWS, GCP, PostgreSQL, MongoDB, PyTorch, React
 
 **Domains:** AI/Machine Learning, Generative AI Systems, Backend Development, NLP
 
